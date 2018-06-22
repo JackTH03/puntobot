@@ -49,7 +49,7 @@ async def imgrab(term):
     for item in result:
         print (item.link)
     await client.say("look in console")
-
+#its not here
 #SET BOT STATE
 @client.event
 async def on_ready():
